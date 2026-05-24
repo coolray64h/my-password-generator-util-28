@@ -1,2 +1,9 @@
-# my-password-generator-util-28
-A simple password generator project
+# Password Generator
+
+A simple command-line password generator.
+\n
+## Usage
+
+```
+python main.py
+```
